@@ -2,3 +2,4 @@ Feature A
 More work on feature A
 Day 3 git commit
 Bug fix
+Small typo
