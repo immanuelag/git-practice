@@ -3,3 +3,5 @@ More work on feature A
 Day 3 git commit
 Bug fix
 Small typo
+Diff practice line 1
+Diff practice line 2
