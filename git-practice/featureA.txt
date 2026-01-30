@@ -10,3 +10,5 @@ Change from conflict-test
 change from remote
 Local change before rebase
 
+Work in progress line 1
+Another WIP line
