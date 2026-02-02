@@ -12,4 +12,3 @@ Local change before rebase
 
 Work in progress line 1
 Another WIP line
-Bad change to revert
