@@ -12,3 +12,4 @@ Local change before rebase
 
 Work in progress line 1
 Another WIP line
+Reflog recovery test
